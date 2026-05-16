@@ -4,7 +4,7 @@ This is a 4x Strategy game with Tech Tree, Government and AI made in Unity. Play
 
 <img align="left" src="https://github.com/zach1492/Stratergy-Game/blob/main/Images/EygptvsPersia.png">
 
-#
+<br><br>
 
 ## Technologies
 
@@ -36,7 +36,7 @@ This is a 4x Strategy game with Tech Tree, Government and AI made in Unity. Play
  
  <img align="left" src="https://github.com/zach1492/Stratergy-Game/blob/main/Images/48042B27-897F-477E-A9A2-C8E863C9D12A.jpeg">
 
-#
+<br><br>
 
 ## Controls
  
@@ -78,7 +78,7 @@ Then I did a lot of polishing like error fixing, performance improvement and UI 
 
 <img align="left" src="https://github.com/zach1492/Stratergy-Game/blob/main/Images/03E72C15-35A8-4012-B34E-9B1494B3B088.jpeg">
 
-#
+<br><br>
 
 ## What I Learned
 
@@ -108,7 +108,7 @@ This project has also helped me become better at designing clear, modular and ae
 
 <img align="left" src="https://github.com/zach1492/Stratergy-Game/blob/main/Images/Spawn4player.png">
 
-#
+<br><br>
 
 ## How it can be improved
 
