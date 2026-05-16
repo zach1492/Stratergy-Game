@@ -16,6 +16,8 @@ This is a 4x Strategy game with Tech Tree, Government and AI made in Unity. Play
 
  • Visual Studio Code
 
+ • ShaderLab
+
 ## Features
 
  • Troop movement and combat
